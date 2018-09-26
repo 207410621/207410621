@@ -5,7 +5,8 @@ Week 1
 
 Week 2
 * table.html
-*myclass_template.html
+
+* myclass_template.html
 
 Week 3
-*tku60.html
+* tku60.html
