@@ -1,6 +1,6 @@
 ＃歡迎來到StackEdit！
 
-嗨！我對你們的第一次降價文件** StackEdit **。如果你想了解StackEdit，你可以讀我。如果你想玩Markdown，可以編輯我。完成後，您可以通過打開導航欄左側的*                                                         *文件瀏覽器**來創建新文件。
+嗨！我對你們的第一次降價文件** StackEdit **。如果你想了解StackEdit，你可以讀我。如果你想玩Markdown，可以編輯我。完成後，您可以通過打開導航欄左側的*                                                          *文件瀏覽器**來創建新文件。
 
 
 ＃文件
@@ -21,14 +21,14 @@ StackEdit存儲您的文件在您的瀏覽器，這意味著您的所有文件�
 
 ## 刪除文件
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+您可以通過單擊文件資源管理器中的**刪除**按鈕來刪除當前文件。該文件將被移動到** Trash **文件夾中，並在7天不活動後自動刪除。
 
-## Export a file
+## 導出文件
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+您可以通過單擊菜單中的**導出到磁盤**來導出當前文件。您可以選擇將文件導出為純Markdown，使用Handlebars模板或PDF作為HTML導出。
 
 
-# Synchronization
+＃同步
 
 Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
 
@@ -76,42 +76,42 @@ You can publish your file by opening the **Publish** sub-menu and by clicking **
 
 ## Update a publication
 
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
+發布後，StackEdit會將您的文件鏈接到該出版物，以便您輕鬆重新發布。修改文件並想要更新出版物後，單擊導航欄中的**立即發布**按鈕。
 
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
+> **注意：**如果您的文件尚未發布，則**現在**發布**按鈕被禁用。 
 
-## Manage file publication
+## 管理文件發布
 
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
+由於一個文件可以被發布到多個位置，你可以列出和管理通過點擊發布位置**文件發布**的**發布**子菜單。這允許您列出和刪除鏈接到您的文件的發布位置。
 
 
-# Markdown extensions
+＃降價擴展
 
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
+StackEdit通過添加額外的** Markdown擴展**擴展了標準Markdown語法，為您提供了一些不錯的功能。
 
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
+> ** ProTip：**您可以在**文件屬性**對話框中禁用任何** Markdown擴展**。 
 
 
 ## SmartyPants
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+聰明的傢伙將ASCII標點符號轉換為“智能”排版標點符號HTML實體例如：。
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+| | ASCII | HTML | | ---------------- | ------------------------------- | ----------------------------- | | 單反手| “？這不是很有趣嗎” ` | “這不好玩嗎？”| | 行情| ` “這不是好玩的？” ` | “這不好玩嗎？”| | 破折號| ` - 是短破折號，---是破折號`|  - 是短劃線，---是em-dash |                
+
+            
+            
+
 
 
 ## KaTeX
 
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
+您可以使用[KaTeX]（https://khan.github.io/KaTeX/ ）渲染LaTeX數學表達式：
 
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+在*伽瑪功能*滿足$ \伽瑪（ñ）=（N-1）！\ quad \ forall n \ in \ mathbb N $是通過Euler積分
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
+$$                                                                          \ Gamma（z）= \ int _0 ^ \ infty t ^ { z-1 } e ^ { -t } dt \ ,. $$
+
+
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
@@ -142,5 +142,5 @@ B  - > D {菱形}
 C  - > D```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU1MTIyM119
+eyJoaXN0b3J5IjpbLTE1NzIyNjI1OTMsLTE1NTU1MTIyM119
 -->
