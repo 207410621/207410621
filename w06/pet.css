@@ -1,0 +1,90 @@
+#petcontainer {
+    font-family: Arial, Helvetica, sans-serif, 微軟正黑體;
+    background: url(images2/bg.jpg);
+}
+
+#petcontainer header {
+    width: 800px;
+    height: 80px;
+    background-color: #330000;
+}
+
+#petcontainer h1#text1 {
+    position: absolute;
+    color: #FF0000;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+#petcontainer h1#text2 {
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+#petcontainer aside {
+    width: 170px;
+    height: 400px;
+    background: url(images2/bg_lt.png);
+    float: left;
+}
+
+#petcontainer article {
+    width: 628px;
+    height: 400px;
+    margin-left: 170px;
+    background-color: beige;
+}
+
+#petcontainer footer {
+    width: 800px;
+    height: 50px;
+    background-color: #330000;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 50px;
+}
+
+#petcontainer nav {
+    margin-top: 170px;
+}
+
+#petcontainer nav ul {
+    padding: 10px;
+    list-style: none;
+}
+
+#petcontainer nav ul li a {
+    display: block;
+    width: 150px;
+    height: 42;
+    background-image: url(images2/btn.png);
+    text-indent: 50px;
+    line-height: 35px;
+}
+
+#petcontainer nav ul a:hover {
+    background-image: url(images2/btn_hover.png);
+    color: white;
+}
+
+#petcontainer img {
+    width: 120px;
+    margin: 3px;
+    border-radius: 15px;
+}
+
+#petcontainer fieldset {
+    border-radius: 10px;
+}
+
+#petcontainer fieldset legend {
+    text-align: center
+}
+
+#petcontainer .consection {
+    width: 400px;
+    margin: 0px auto;
+    padding: 20px
+}
